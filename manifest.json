@@ -1,0 +1,29 @@
+{
+    "name": "News",
+    "shortname": "News",
+    "theme_color": "#a525c5",
+    "background_color": "#a525c5",
+    "display": "standalone",
+    "start_url": ".",
+    "icons": [{
+            "src": "images/icon/icon-144x144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon/icon-192x192.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon/icon-512x512.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/icon/icon-72x72.png",
+            "sizes": "270x270",
+            "type": "image/png"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+cd C:\Users\AMA\Desktop\STUFF\Everything web\Web development\Work space
+
+serve -s NEWS
